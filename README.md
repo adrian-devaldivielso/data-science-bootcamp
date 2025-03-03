@@ -1,2 +1,2 @@
-# data_science_bootcamp
+# data-science-bootcamp
 The Bridge Data Science Bootcamp Repository
